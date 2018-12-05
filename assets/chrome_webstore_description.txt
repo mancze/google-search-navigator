@@ -1,3 +1,6 @@
+New in 0.3.4
+* Searchbox can be blurred using the "Focus searchbox" shortcut.
+
 New in 0.3.3
 * Link-opening shortcuts now prefer focused element over the highlighted
   result. Hence it is possible to navigate to sub-results and other links
